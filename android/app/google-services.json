@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1004571242387",
+    "project_id": "anonc-d8d5b",
+    "storage_bucket": "anonc-d8d5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004571242387:android:ff8e6b0f51cb482706c266",
+        "android_client_info": {
+          "package_name": "com.codeorwot.anonc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004571242387-0ep1uv48q64f6672u1kne8up4hbo52r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjMKfqYF7NwCNxgYi8r8Tml4Tb5Gl6Is0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004571242387-0ep1uv48q64f6672u1kne8up4hbo52r0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
